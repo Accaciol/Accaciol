@@ -55,6 +55,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Accaciol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accaciol&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Accaciol&theme=dracula"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Accaciol&theme=dracula"/>
 </p>
